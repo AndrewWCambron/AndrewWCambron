@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Cambron</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **A AI Chatbot**
+- 🔭 I’m currently working on **an AI Chatbot**
 
 - 🌱 I’m currently learning **Django**
 
